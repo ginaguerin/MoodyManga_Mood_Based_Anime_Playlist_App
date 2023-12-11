@@ -44,7 +44,11 @@ In shaping MoodyManga's intelligence, we meticulously designed a sophisticated m
 
 ## App Deployment ##
 
+Checkout our finalized app:
+- [MoodyManga](https://moody-manga-app-ginakari.streamlit.app)!
+
 See Moody_Manga_App --> 'moody_manga_app.py' for completed app details
+
 
 ## Future Developments ##
 
