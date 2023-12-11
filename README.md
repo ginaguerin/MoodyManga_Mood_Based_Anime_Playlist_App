@@ -79,10 +79,13 @@ See Moody_Manga_App --> 'moody_manga_app.py' for completed app details
 
 ├── Zipped_data                      <- Data file used in this project
 ├── Images                           <- Images and Logo
+├── saved_models                     <- Our saved models for easier access
+├── .gitattributes                   <- Attributes for pathnames
 ├── .gitignore                       <- Contains list of files to be ignored from GitHub
 ├── Presentation_Slides.pdf          <- Slide Presentation of the project
 ├── README.md                        <- Contains README file to be reviewed
-└── Recc_System_Notebook.ipynb            <- Jupyter notebook of the project containing codes and analysis
+├── Data_Notebook.ipynb              <- Creation of combined Datasets
+└── Recc_System_Notebook.ipynb       <- Jupyter notebook of the project containing codes and analysis
 
 ```
 
