@@ -82,6 +82,7 @@ See Moody_Manga_App --> 'moody_manga_app.py' for completed app details
 
 
 ├── Zipped_data                      <- Data file used in this project
+├── Moody_Manga_App                  <- Finalized App
 ├── Images                           <- Images and Logo
 ├── saved_models                     <- Our saved models for easier access
 ├── .gitattributes                   <- Attributes for pathnames
